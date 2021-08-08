@@ -1,4 +1,4 @@
-ALX PreCourse
+TASK O. CREATE AND SETTING UP MY GIT AND GITHUB ACCOUNT
 
 This was created as a exercise during the onboarding into the ALX Software Engineering August Cohort
 
