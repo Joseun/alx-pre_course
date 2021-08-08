@@ -1,4 +1,4 @@
-TASK 1. REPO-SESSION
+TASK 4. COLLABORATION: BE UP TO DATE
 
 I made a new directory 0x02-git and added a README.md
 
@@ -8,4 +8,4 @@ This program is currently in the works and I hope to collaborate with my advanci
 
 It would be nice if any tips can be added
 
-Credits: freecodecamp.com, github.com help, digitalocean
+Credits: freecodecamp.com, github.com help, digitalocean, datacamp.com
