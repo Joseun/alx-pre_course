@@ -1,4 +1,4 @@
-TASK 2. CODING FURY ROAD
+TASK 3. COLLABORATION IS THE BASE OF A COMPANY
 
 This was created as a exercise during the onboarding into the ALX Software Engineering August Cohort
 
