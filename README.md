@@ -1,8 +1,10 @@
-TASK O. CREATE AND SETTING UP MY GIT AND GITHUB ACCOUNT
+TASK 2. CODING FURY ROAD
 
 This was created as a exercise during the onboarding into the ALX Software Engineering August Cohort
 
 I had Brackets installed and used it as my test editor.
+
+Added bash, c and js directories with respoective files.
 
 I had to do a lot of reading and research on GIT. Glad I did. It was really helpful. 
 
