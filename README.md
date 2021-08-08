@@ -1,12 +1,8 @@
-TASK 3. COLLABORATION IS THE BASE OF A COMPANY
+ALX PRECOURSE
 
 This was created as a exercise during the onboarding into the ALX Software Engineering August Cohort
 
 I had Brackets installed and used it as my test editor.
-
-Updated bash, c directories with respective files.
-
-Deleted js directory
 
 I had to do a lot of reading and research on GIT. Glad I did. It was really helpful. 
 
